@@ -4,6 +4,10 @@
 This project is a calorie and BMI calculator website built using HTML, Tailwind CSS, and JavaScript. It allows users to calculate their daily calorie requirement based on their personal information and activity level, as well as calculate their Body Mass Index (BMI) for health assessment.
 
 
+# Demo
+
+Check out the live demo of the project: [Live Demo](https://fitmetrichub.netlify.app/)
+
 ## Features
 
 - Daily Calorie Requirement Calculator
